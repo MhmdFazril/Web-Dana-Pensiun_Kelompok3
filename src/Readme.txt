@@ -1,0 +1,1 @@
+File ini buat nyimpen konfigurasi.
